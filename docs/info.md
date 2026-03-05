@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Takes 2 4 bit values and mulitplies them
 
 ## How to test
 
-Explain how to use your project
+Compute the product before hand and compate it to the multipliers output
 
 ## External hardware
 
